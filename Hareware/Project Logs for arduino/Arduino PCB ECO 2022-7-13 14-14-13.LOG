@@ -1,4 +1,0 @@
-Added Component: Designator=RST(KEY-SMD_4P-)
-Added Pin To Net: NetName=GND Pin=RST-1
-Added Pin To Net: NetName=NetC4_1 Pin=RST-4
-Added Member To Class: ClassName=Sheet Member=Component RST KEY
