@@ -100,7 +100,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ZPKPTQIF
 
 [Document4]
-DocumentPath=Arduino.pcbdoc
+DocumentPath=E:\桌面\Arduino NANO V3_PCB_2022-07-13.pcbdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -114,7 +114,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=FIYQPHCP
+DocumentUniqueId=PNADJCGX
 
 [Configuration1]
 Name=Sources

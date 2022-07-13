@@ -1,0 +1,15 @@
+Added Component: Designator=D1(SMA_L4.3-W2.6-LS5.2-RD)
+Added Component: Designator=H3(HDR-TH_6P-P2.54-V_Z-211-0611-0021-001)
+Added Pin To Net: NetName=VBUS Pin=D1-1
+Added Pin To Net: NetName=NetC1_2 Pin=D1-2
+Added Pin To Net: NetName=+5V Pin=H3-1
+Added Pin To Net: NetName=3.3V Pin=H3-2
+Added Pin To Net: NetName=GND Pin=H3-3
+Added Pin To Net: NetName=GND Pin=H3-4
+Added Pin To Net: NetName=3.3V Pin=H3-5
+Added Pin To Net: NetName=+5V Pin=H3-6
+Add Pin To Net: Unknown Pin: Pin RST-1
+Add Pin To Net: Unknown Pin: Pin RST-4
+Added Member To Class: ClassName=Sheet Member=Component D1 SS36
+Added Member To Class: ClassName=Sheet Member=Component H3
+Add Class Member: Failed to add class member : Component RST KEY

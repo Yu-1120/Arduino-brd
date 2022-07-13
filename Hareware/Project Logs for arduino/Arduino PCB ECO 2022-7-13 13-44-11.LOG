@@ -1,0 +1,67 @@
+Add Component: Footprint Not Found LED
+Add Component: Footprint Not Found LED
+Add Component: Footprint Not Found AXIAL0.4
+Added Component: Designator=R5(R0603)
+Add Component: Footprint Not Found AXIAL0.4
+Add Component: Footprint Not Found TQFP-32_L7.0-W7.0-P0.80-LS9.0-BL
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D13-1
+Add Pin To Net: Unknown Pin: Pin D13-2
+Add Pin To Net: Unknown Pin: Pin H3-1
+Add Pin To Net: Unknown Pin: Pin H3-2
+Add Pin To Net: Unknown Pin: Pin H3-3
+Add Pin To Net: Unknown Pin: Pin H3-4
+Add Pin To Net: Unknown Pin: Pin H3-5
+Add Pin To Net: Unknown Pin: Pin H3-6
+Add Pin To Net: Unknown Pin: Pin POWER-1
+Add Pin To Net: Unknown Pin: Pin POWER-2
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Added Pin To Net: NetName=NetD13_1 Pin=R5-1
+Added Pin To Net: NetName=D13 Pin=R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin RST-1
+Add Pin To Net: Unknown Pin: Pin RST-4
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Pin To Net: Unknown Pin: Pin U1-9
+Add Pin To Net: Unknown Pin: Pin U1-10
+Add Pin To Net: Unknown Pin: Pin U1-11
+Add Pin To Net: Unknown Pin: Pin U1-12
+Add Pin To Net: Unknown Pin: Pin U1-13
+Add Pin To Net: Unknown Pin: Pin U1-14
+Add Pin To Net: Unknown Pin: Pin U1-15
+Add Pin To Net: Unknown Pin: Pin U1-16
+Add Pin To Net: Unknown Pin: Pin U1-17
+Add Pin To Net: Unknown Pin: Pin U1-18
+Add Pin To Net: Unknown Pin: Pin U1-19
+Add Pin To Net: Unknown Pin: Pin U1-20
+Add Pin To Net: Unknown Pin: Pin U1-21
+Add Pin To Net: Unknown Pin: Pin U1-22
+Add Pin To Net: Unknown Pin: Pin U1-23
+Add Pin To Net: Unknown Pin: Pin U1-24
+Add Pin To Net: Unknown Pin: Pin U1-25
+Add Pin To Net: Unknown Pin: Pin U1-26
+Add Pin To Net: Unknown Pin: Pin U1-27
+Add Pin To Net: Unknown Pin: Pin U1-28
+Add Pin To Net: Unknown Pin: Pin U1-29
+Add Pin To Net: Unknown Pin: Pin U1-30
+Add Pin To Net: Unknown Pin: Pin U1-31
+Add Pin To Net: Unknown Pin: Pin U1-32
+Add Class Member: Failed to add class member : Component D1 SS36
+Add Class Member: Failed to add class member : Component D13 B_LED
+Add Class Member: Failed to add class member : Component H3
+Add Class Member: Failed to add class member : Component POWER B_LED
+Add Class Member: Failed to add class member : Component R1 5.1k
+Added Member To Class: ClassName=Sheet Member=Component R5 1k
+Add Class Member: Failed to add class member : Component R6 1k
+Add Class Member: Failed to add class member : Component RST KEY
+Add Class Member: Failed to add class member : Component U1 ATMEGA328P-AU
